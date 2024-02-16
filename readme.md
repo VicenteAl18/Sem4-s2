@@ -15,6 +15,6 @@
 2. EXTERNO
     2.1 Margin Box   = (Flujo del dom - colapso de margenes verticales)
 
-## BOS SIZING BORDER BOX ##
+## BOX SIZING BORDER BOX ##
 
 1. Selector universal (\*)
